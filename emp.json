@@ -1,0 +1,73 @@
+[
+ null,
+ null,
+ {
+  "empjson : Sheet1": 1,
+  "Column2": "name",
+  "Column3": "designation",
+  "Column4": "Emp-ID"
+ },
+ {
+  "empjson : Sheet1": 2,
+  "Column2": "Dr. Kasa Ravindra",
+  "Column3": "Dean",
+  "Column4": "MRUE2008T011"
+ },
+ {
+  "empjson : Sheet1": 3,
+  "Column2": "Dr. Meeravali Shaikh",
+  "Column3": "HOD",
+  "Column4": "MRUE2009T005"
+ },
+ {
+  "empjson : Sheet1": 4,
+  "Column2": "Dr.Arun Singh",
+  "Column3": "Associate Prof.",
+  "Column4": "MRUE2009T019"
+ },
+ {
+  "empjson : Sheet1": 5,
+  "Column2": "Dr. T. Phanindra",
+  "Column3": "Associate Prof.",
+  "Column4": "MRUE2009T013"
+ },
+ {
+  "empjson : Sheet1": 6,
+  "Column2": "Dr.B.Jogeswara Rao",
+  "Column3": "Associate Prof.",
+  "Column4": "MRUE2009T021"
+ },
+ {
+  "empjson : Sheet1": 7,
+  "Column2": "Mr. M.Gouthamm",
+  "Column3": "Assistant Prof.",
+  "Column4": "MRUE2009T022"
+ },
+ {
+  "empjson : Sheet1": 8,
+  "Column2": "Dr.M.Ravikanth",
+  "Column3": "Assistant Prof.",
+  "Column4": "MRUE2009T016"
+ },
+ {
+  "empjson : Sheet1": 9,
+  "Column2": "Dr.P.Rambabu",
+  "Column3": "Assistant Prof.",
+  "Column4": "MRUE2009T014"
+ },
+ {
+  "empjson : Sheet1": 10,
+  "Column2": "Mr. G. Raju",
+  "Column3": "Assistant Prof.",
+  "Column4": "MRUE2009T043"
+ },
+ {
+  "empjson : Sheet1": 11,
+  "Column2": "Mr. M.Krishna",
+  "Column3": "Assistant Prof.",
+  "Column4": "MRUE2009T033"
+ },
+ {
+  "empjson : Sheet1": "Published by Google Sheets–Report Abuse"
+ }
+]
